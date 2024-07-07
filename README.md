@@ -6,7 +6,6 @@ Enter the intense, fast-paced world of Combat-Game, a thrilling 2-player combat 
 Live Link - [Combat Game](https://tusharjain24.github.io/Combat-Game/)
 
 
-
 ## Features
 
 - Local Multiplayer: Engage in exciting head-to-head battles using a single keyboard.
@@ -32,7 +31,7 @@ Players will use different sections of the keyboard to control their characters,
     - Down Arrow Key: Attack
 ## Screenshots
 
-![App Screenshot](![image](https://github.com/tusharjain24/Combat-Game/assets/91754369/060be48c-6ac0-46ab-a9ad-28fad73ff72a))
+![Game Image](https://github.com/tusharjain24/Combat-Game/assets/91754369/63287cc8-f244-419e-9827-2cd042ec369b)
 
 
 ## Run Locally
